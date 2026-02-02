@@ -1,0 +1,16 @@
+target/
+src/
+.git/
+.gitignore
+.idea/
+*.iml
+*.iws
+*.ipr
+pom.xml
+.vscode/
+k8s/
+*.yaml
+*.yml
+!docker-compose.yml
+locust/
+
